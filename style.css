@@ -1,0 +1,59 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: rgba(0, 0, 0, 0.10)
+}
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+
+}
+a:hover {
+    cursor: pointer;
+}
+
+.boxes {
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 20%;
+}
+
+span {
+    color: blue;
+    font-weight: bold;
+}
+
+#red { background: red; }
+#blue { background: blue; }
+#yellow { background: yellow; }
+#green { background: green;}
+
+.image {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background: #000;
+}
+
+.first { color: aqua; }
+
+.second { color: blanchedalmond; }
+
+#show1 { color: brown; }
+#show2 { color: cadetblue; }
+#show3 { color: coral; }
+#show4 { color: cornsilk }
+#show5 { color: crimson; }
+
+.border { border: 2px solid; }
+
+.friends { color: azure; }
+
+.places { color: bisque; }
+
+.restaurants { color: burlywood; }
